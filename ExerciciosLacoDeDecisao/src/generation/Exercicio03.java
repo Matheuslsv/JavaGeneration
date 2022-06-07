@@ -2,7 +2,7 @@ package generation;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Exercicio03 {
 	
 	//3- Faça um programa que receba a idade de uma pessoa e mostre na saída em qual
 	//categoria ela se encontra:
